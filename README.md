@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![YTD Stats](https://github-contribution-stats.vercel.app/api/?username=radomirchev)
+![YTD Stats](https://github-contribution-stats.vercel.app/api/?username=radomirche)
 
 <!--
 **radomirchev/radomirchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
