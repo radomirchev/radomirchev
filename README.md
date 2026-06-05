@@ -2,7 +2,7 @@
 
 ![YTD Stats](https://github-contribution-stats.vercel.app/api/?username=radomirchev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radomirchev)](https://github.com/radomirchev/github-readme-stats)
+[![Radomirchev's GitHub stats](https://github-readme-stats.vercel.app/api?username=radomirchev)](https://github.com/radomirchev/github-readme-stats)
 
 <!--
 **radomirchev/radomirchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
